@@ -1,0 +1,209 @@
+.my_control{
+   margin-left: 215px; 
+   border-radius: 35px;
+   background-color: #f8f8f8;    
+   
+    
+}
+.navbar-brand > img{
+    height: 20px;
+    width: 160px;
+    display: inline-block;
+    text-align: center;
+    
+}
+.navbar-default .navbar-collapse, .navbar-default {
+ background-color: transparent;
+    
+}
+
+.navbar{
+    margin-top: 32px;
+    border: 0px;
+    margin-bottom: 20px;
+}
+.span_style{
+    color: blue;
+    display: inline-block;
+}
+.jumbotronmain1{
+ background: url("../images/jumbotron_image5.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 350px;
+    margin-bottom: 32px;
+   
+    
+    
+}
+.jumbotron .jumboh1{
+    color: snow;
+    font-size: 32px;
+    padding-top: 170px;
+}
+
+.jumbotron .jumbop1{
+    color: snow;
+    font-size: 16px;
+}
+.try{
+    color: black;
+    border: 1px solid;
+    margin-right: 90px;
+    text-align: center;
+}
+.try1{
+    color: black;
+    border: 1px solid;
+    margin-right: 90px;
+    text-align: center;
+}
+.navbar-header span{
+    color: black;
+
+}
+.navbar-brand .strong1{
+    text-align: center;
+/*    border-bottom: 0.2px solid grey;*/
+    color: black;
+    text-align: center;
+}
+
+.navbar-brand .strong2{
+    display: inline-block;
+    text-align: center;
+    
+}
+.stru{
+    color: black;
+    display: inline-block;
+}
+
+.navbar-right .dropdown{
+    background-color: #f8f8f8;
+    border-radius: 30px;
+}
+.navbar-default .navbar-nav>li>.prime{
+    color: snow;
+}
+.myfirstgrid{
+/*    border: 2px solid black;*/
+    height: auto;
+}
+.mysecondgrid{
+/*    border: 2px solid black;*/
+    height: auto;
+}
+.jumbotronmain2{
+ background: url("../images/jumbotron_image1.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 250px;
+   
+}
+.page-header1 .dropdown {
+    list-style: none;
+    margin-left: auto;
+    float: right;
+    background-color: transparent;
+    
+}
+.page-header1 .page1layout{
+/*    border: 2px solid;*/
+    width: auto;
+    
+}
+.jumbotronmain3{
+ background: url("../images/jumbotron_image9.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 250px;
+   
+}
+.jumbotronmain4{
+ background: url("../images/jumbotron_image.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 250px;
+   
+}
+.media-heading{
+    margin-top: 7px;
+}
+.pagelayout2 .views{
+    margin-left: auto;
+    padding-top: 5px;
+    display: inline-block;
+    float: right;
+    
+
+}
+.share{
+    margin-left: 15px;
+    background-color: #f8f8f8;
+    color: black;
+    
+}
+.location{
+margin-left: 55px;
+}
+.btnn{
+    color: green;
+}
+.btnn1{
+ color: orangered;
+}
+
+.newmedia{
+    padding-left: 25px;
+}
+.newview{
+    padding-left: 30px;
+    padding-top: 8px;
+}
+
+.shu{
+    float: right;
+    color: black;
+}
+.leftsidebutton{
+/*    margin-left: 98px;*/
+    border-radius: 35px;
+    background-color: black;
+    
+/*
+    padding-left: 24px;
+    padding-right: 24px;
+*/
+}
+.leftsidebutton1{
+/*    margin-left: 98px;*/
+    border-radius: 35px;
+    color: black;
+    
+}
+.leftsideanchor{
+    margin-left: 50px;
+}
+.prime{
+    border-radius: 30px;
+}
+.maahfollow{
+    color: snow;
+    font-size: 20px;
+    border: 1px solid snow;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 13px;
+    padding-right: 13px;
+    background-color: black;
+    
+    
+}
+.maahfollow1{
+   position: absolute;
+    right: 240px;
+    font-size: 24px;
+    color: chartreuse;
+}
+
